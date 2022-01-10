@@ -1,1 +1,1 @@
-# conde
+#EXTM3U #EXTINF:1, #EXTINF:0,PREMIER CLUBE HD https://megacanais.com/premiere-clubes-ao-vivo/ #EXTINF:0,PREMIER 2 HD https://megacanais.com/premiere-2-ao-vivo/ #EXTINF:0,PREMIER 3 HD https://megacanais.com/premiere-3-ao-vivo/ #EXTINF:0,PREMIER 4 HD https://megacanais.com/premiere-4-ao-vivo/ #EXTINF:0,PREMIER 5 HD https://futeboltotal.org/assistir-premiere-5-online-gratis-ao-vivo-no-pc-e-celular-em-hd/ #EXTINF:0,PREMIER 6 HD https://megacanais.com/premiere-6-ao-vivo/ #EXTINF:0,PREMIER 7 HD https://megacanais.com/premiere-7-ao-vivo/
